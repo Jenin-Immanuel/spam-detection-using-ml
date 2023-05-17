@@ -9,6 +9,20 @@ Frameworks used
 
 ML Algorithm: Multinomial Naive Bayes algorithm
 
+#### Setup environment
+
+```
+python -m venv env
+```
+
+```
+.\env\Scripts\activate
+```
+
+```
+pip install -r requirements.txt
+```
+
 #### Run code
 
 ```
